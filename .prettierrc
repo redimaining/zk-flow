@@ -8,3 +8,8 @@
   "parser": "typescript",
   "endOfLine": "auto"
 }
+"printWidth": 120,
+  "tabWidth": 2,
+  "bracketSpacing": true,
+  "parser": "typescript",
+  "endOfLine": "auto"
